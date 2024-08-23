@@ -29,7 +29,7 @@ A web application built with React and Vite to help users manage their personal 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/budget-tracker-app.git
+   git clone https://github.com/Dewang007/Budget-Tracker-React-App.git
    cd budget-tracker-app
    ```
 
